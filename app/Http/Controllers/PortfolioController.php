@@ -49,7 +49,7 @@ class PortfolioController extends Controller
             'title' => 'Laravel Portfolio',
             'desc' => 'Modern single-page portfolio built with Laravel and jQuery animations.',
             'image' => 'potfolio.png',
-            'link' => 'https://github.com/neerajdubey/laravel-portfolio'
+            'link' => 'https://github.com/dubeyarjun/MyPortfolio/'
         ],
     ],
             'email' => 'dubeyneeraj412@gmail.com',
